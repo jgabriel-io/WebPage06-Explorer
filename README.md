@@ -4,7 +4,7 @@
 
 Este é um projeto de Fotoblog desenvolvido durante a trilha Explorer da plataforma Rocketseat. Ele consiste em uma página web simples com uma galeria de imagens, um cabeçalho com navegação e um campo de pesquisa.
 
-![Fotoblog.png](%F0%9F%93%B7%20Fotoblog%2080fb66b8ba034f7683204e517719f87d/Fotoblog.png)
+![Fotoblog.png](/src/assets/Fotoblog.png)
 
 ## **💻 Tecnologias Utilizadas**
 
